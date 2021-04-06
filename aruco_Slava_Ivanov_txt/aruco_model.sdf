@@ -1,0 +1,435 @@
+
+<?xml version="1.0"?>
+<sdf version="1.5">
+    <model name="aruco_2_25">
+        <static>true</static>
+        <link name="aruco_2_25_link">
+            
+<visual name="visual_marker_2_21">
+    <pose>0.0 4.0 0.0 0.0 0.0 1.57079632679</pose>
+    <cast_shadows>false</cast_shadows>
+    <geometry>
+        <box>
+            <size>0.44 0.44 1e-3</size>
+        </box>
+    </geometry>
+    <material>
+        <script>
+            <uri>model://aruco_Slava_Ivanov_txt/materials/scripts</uri>
+            <uri>model://aruco_Slava_Ivanov_txt/materials/textures</uri>
+            <name>aruco/marker_2_21</name>
+        </script>
+    </material>
+</visual>
+
+<visual name="visual_marker_2_22">
+    <pose>1.0 4.0 0.0 0.0 0.0 1.57079632679</pose>
+    <cast_shadows>false</cast_shadows>
+    <geometry>
+        <box>
+            <size>0.44 0.44 1e-3</size>
+        </box>
+    </geometry>
+    <material>
+        <script>
+            <uri>model://aruco_Slava_Ivanov_txt/materials/scripts</uri>
+            <uri>model://aruco_Slava_Ivanov_txt/materials/textures</uri>
+            <name>aruco/marker_2_22</name>
+        </script>
+    </material>
+</visual>
+
+<visual name="visual_marker_2_23">
+    <pose>2.0 4.0 0.0 0.0 0.0 1.57079632679</pose>
+    <cast_shadows>false</cast_shadows>
+    <geometry>
+        <box>
+            <size>0.44 0.44 1e-3</size>
+        </box>
+    </geometry>
+    <material>
+        <script>
+            <uri>model://aruco_Slava_Ivanov_txt/materials/scripts</uri>
+            <uri>model://aruco_Slava_Ivanov_txt/materials/textures</uri>
+            <name>aruco/marker_2_23</name>
+        </script>
+    </material>
+</visual>
+
+<visual name="visual_marker_2_24">
+    <pose>3.0 4.0 0.0 0.0 0.0 1.57079632679</pose>
+    <cast_shadows>false</cast_shadows>
+    <geometry>
+        <box>
+            <size>0.44 0.44 1e-3</size>
+        </box>
+    </geometry>
+    <material>
+        <script>
+            <uri>model://aruco_Slava_Ivanov_txt/materials/scripts</uri>
+            <uri>model://aruco_Slava_Ivanov_txt/materials/textures</uri>
+            <name>aruco/marker_2_24</name>
+        </script>
+    </material>
+</visual>
+
+<visual name="visual_marker_2_25">
+    <pose>4.0 4.0 0.0 0.0 0.0 1.57079632679</pose>
+    <cast_shadows>false</cast_shadows>
+    <geometry>
+        <box>
+            <size>0.44 0.44 1e-3</size>
+        </box>
+    </geometry>
+    <material>
+        <script>
+            <uri>model://aruco_Slava_Ivanov_txt/materials/scripts</uri>
+            <uri>model://aruco_Slava_Ivanov_txt/materials/textures</uri>
+            <name>aruco/marker_2_25</name>
+        </script>
+    </material>
+</visual>
+
+<visual name="visual_marker_2_46">
+    <pose>0.0 3.0 0.0 0.0 0.0 1.57079632679</pose>
+    <cast_shadows>false</cast_shadows>
+    <geometry>
+        <box>
+            <size>0.44 0.44 1e-3</size>
+        </box>
+    </geometry>
+    <material>
+        <script>
+            <uri>model://aruco_Slava_Ivanov_txt/materials/scripts</uri>
+            <uri>model://aruco_Slava_Ivanov_txt/materials/textures</uri>
+            <name>aruco/marker_2_46</name>
+        </script>
+    </material>
+</visual>
+
+<visual name="visual_marker_2_47">
+    <pose>1.0 3.0 0.0 0.0 0.0 1.57079632679</pose>
+    <cast_shadows>false</cast_shadows>
+    <geometry>
+        <box>
+            <size>0.44 0.44 1e-3</size>
+        </box>
+    </geometry>
+    <material>
+        <script>
+            <uri>model://aruco_Slava_Ivanov_txt/materials/scripts</uri>
+            <uri>model://aruco_Slava_Ivanov_txt/materials/textures</uri>
+            <name>aruco/marker_2_47</name>
+        </script>
+    </material>
+</visual>
+
+<visual name="visual_marker_2_48">
+    <pose>2.0 3.0 0.0 0.0 0.0 1.57079632679</pose>
+    <cast_shadows>false</cast_shadows>
+    <geometry>
+        <box>
+            <size>0.44 0.44 1e-3</size>
+        </box>
+    </geometry>
+    <material>
+        <script>
+            <uri>model://aruco_Slava_Ivanov_txt/materials/scripts</uri>
+            <uri>model://aruco_Slava_Ivanov_txt/materials/textures</uri>
+            <name>aruco/marker_2_48</name>
+        </script>
+    </material>
+</visual>
+
+<visual name="visual_marker_2_49">
+    <pose>3.0 3.0 0.0 0.0 0.0 1.57079632679</pose>
+    <cast_shadows>false</cast_shadows>
+    <geometry>
+        <box>
+            <size>0.44 0.44 1e-3</size>
+        </box>
+    </geometry>
+    <material>
+        <script>
+            <uri>model://aruco_Slava_Ivanov_txt/materials/scripts</uri>
+            <uri>model://aruco_Slava_Ivanov_txt/materials/textures</uri>
+            <name>aruco/marker_2_49</name>
+        </script>
+    </material>
+</visual>
+
+<visual name="visual_marker_2_50">
+    <pose>4.0 3.0 0.0 0.0 0.0 1.57079632679</pose>
+    <cast_shadows>false</cast_shadows>
+    <geometry>
+        <box>
+            <size>0.44 0.44 1e-3</size>
+        </box>
+    </geometry>
+    <material>
+        <script>
+            <uri>model://aruco_Slava_Ivanov_txt/materials/scripts</uri>
+            <uri>model://aruco_Slava_Ivanov_txt/materials/textures</uri>
+            <name>aruco/marker_2_50</name>
+        </script>
+    </material>
+</visual>
+
+<visual name="visual_marker_2_57">
+    <pose>0.0 2.0 0.0 0.0 0.0 1.57079632679</pose>
+    <cast_shadows>false</cast_shadows>
+    <geometry>
+        <box>
+            <size>0.44 0.44 1e-3</size>
+        </box>
+    </geometry>
+    <material>
+        <script>
+            <uri>model://aruco_Slava_Ivanov_txt/materials/scripts</uri>
+            <uri>model://aruco_Slava_Ivanov_txt/materials/textures</uri>
+            <name>aruco/marker_2_57</name>
+        </script>
+    </material>
+</visual>
+
+<visual name="visual_marker_2_58">
+    <pose>1.0 2.0 0.0 0.0 0.0 1.57079632679</pose>
+    <cast_shadows>false</cast_shadows>
+    <geometry>
+        <box>
+            <size>0.44 0.44 1e-3</size>
+        </box>
+    </geometry>
+    <material>
+        <script>
+            <uri>model://aruco_Slava_Ivanov_txt/materials/scripts</uri>
+            <uri>model://aruco_Slava_Ivanov_txt/materials/textures</uri>
+            <name>aruco/marker_2_58</name>
+        </script>
+    </material>
+</visual>
+
+<visual name="visual_marker_2_59">
+    <pose>2.0 2.0 0.0 0.0 0.0 1.57079632679</pose>
+    <cast_shadows>false</cast_shadows>
+    <geometry>
+        <box>
+            <size>0.44 0.44 1e-3</size>
+        </box>
+    </geometry>
+    <material>
+        <script>
+            <uri>model://aruco_Slava_Ivanov_txt/materials/scripts</uri>
+            <uri>model://aruco_Slava_Ivanov_txt/materials/textures</uri>
+            <name>aruco/marker_2_59</name>
+        </script>
+    </material>
+</visual>
+
+<visual name="visual_marker_2_60">
+    <pose>3.0 2.0 0.0 0.0 0.0 1.57079632679</pose>
+    <cast_shadows>false</cast_shadows>
+    <geometry>
+        <box>
+            <size>0.44 0.44 1e-3</size>
+        </box>
+    </geometry>
+    <material>
+        <script>
+            <uri>model://aruco_Slava_Ivanov_txt/materials/scripts</uri>
+            <uri>model://aruco_Slava_Ivanov_txt/materials/textures</uri>
+            <name>aruco/marker_2_60</name>
+        </script>
+    </material>
+</visual>
+
+<visual name="visual_marker_2_61">
+    <pose>4.0 2.0 0.0 0.0 0.0 1.57079632679</pose>
+    <cast_shadows>false</cast_shadows>
+    <geometry>
+        <box>
+            <size>0.44 0.44 1e-3</size>
+        </box>
+    </geometry>
+    <material>
+        <script>
+            <uri>model://aruco_Slava_Ivanov_txt/materials/scripts</uri>
+            <uri>model://aruco_Slava_Ivanov_txt/materials/textures</uri>
+            <name>aruco/marker_2_61</name>
+        </script>
+    </material>
+</visual>
+
+<visual name="visual_marker_2_68">
+    <pose>0.0 1.0 0.0 0.0 0.0 1.57079632679</pose>
+    <cast_shadows>false</cast_shadows>
+    <geometry>
+        <box>
+            <size>0.44 0.44 1e-3</size>
+        </box>
+    </geometry>
+    <material>
+        <script>
+            <uri>model://aruco_Slava_Ivanov_txt/materials/scripts</uri>
+            <uri>model://aruco_Slava_Ivanov_txt/materials/textures</uri>
+            <name>aruco/marker_2_68</name>
+        </script>
+    </material>
+</visual>
+
+<visual name="visual_marker_2_69">
+    <pose>1.0 1.0 0.0 0.0 0.0 1.57079632679</pose>
+    <cast_shadows>false</cast_shadows>
+    <geometry>
+        <box>
+            <size>0.44 0.44 1e-3</size>
+        </box>
+    </geometry>
+    <material>
+        <script>
+            <uri>model://aruco_Slava_Ivanov_txt/materials/scripts</uri>
+            <uri>model://aruco_Slava_Ivanov_txt/materials/textures</uri>
+            <name>aruco/marker_2_69</name>
+        </script>
+    </material>
+</visual>
+
+<visual name="visual_marker_2_70">
+    <pose>2.0 1.0 0.0 0.0 0.0 1.57079632679</pose>
+    <cast_shadows>false</cast_shadows>
+    <geometry>
+        <box>
+            <size>0.44 0.44 1e-3</size>
+        </box>
+    </geometry>
+    <material>
+        <script>
+            <uri>model://aruco_Slava_Ivanov_txt/materials/scripts</uri>
+            <uri>model://aruco_Slava_Ivanov_txt/materials/textures</uri>
+            <name>aruco/marker_2_70</name>
+        </script>
+    </material>
+</visual>
+
+<visual name="visual_marker_2_71">
+    <pose>3.0 1.0 0.0 0.0 0.0 1.57079632679</pose>
+    <cast_shadows>false</cast_shadows>
+    <geometry>
+        <box>
+            <size>0.44 0.44 1e-3</size>
+        </box>
+    </geometry>
+    <material>
+        <script>
+            <uri>model://aruco_Slava_Ivanov_txt/materials/scripts</uri>
+            <uri>model://aruco_Slava_Ivanov_txt/materials/textures</uri>
+            <name>aruco/marker_2_71</name>
+        </script>
+    </material>
+</visual>
+
+<visual name="visual_marker_2_72">
+    <pose>4.0 1.0 0.0 0.0 0.0 1.57079632679</pose>
+    <cast_shadows>false</cast_shadows>
+    <geometry>
+        <box>
+            <size>0.44 0.44 1e-3</size>
+        </box>
+    </geometry>
+    <material>
+        <script>
+            <uri>model://aruco_Slava_Ivanov_txt/materials/scripts</uri>
+            <uri>model://aruco_Slava_Ivanov_txt/materials/textures</uri>
+            <name>aruco/marker_2_72</name>
+        </script>
+    </material>
+</visual>
+
+<visual name="visual_marker_2_79">
+    <pose>0.0 0.0 0.0 0.0 0.0 1.57079632679</pose>
+    <cast_shadows>false</cast_shadows>
+    <geometry>
+        <box>
+            <size>0.44 0.44 1e-3</size>
+        </box>
+    </geometry>
+    <material>
+        <script>
+            <uri>model://aruco_Slava_Ivanov_txt/materials/scripts</uri>
+            <uri>model://aruco_Slava_Ivanov_txt/materials/textures</uri>
+            <name>aruco/marker_2_79</name>
+        </script>
+    </material>
+</visual>
+
+<visual name="visual_marker_2_80">
+    <pose>1.0 0.0 0.0 0.0 0.0 1.57079632679</pose>
+    <cast_shadows>false</cast_shadows>
+    <geometry>
+        <box>
+            <size>0.44 0.44 1e-3</size>
+        </box>
+    </geometry>
+    <material>
+        <script>
+            <uri>model://aruco_Slava_Ivanov_txt/materials/scripts</uri>
+            <uri>model://aruco_Slava_Ivanov_txt/materials/textures</uri>
+            <name>aruco/marker_2_80</name>
+        </script>
+    </material>
+</visual>
+
+<visual name="visual_marker_2_81">
+    <pose>2.0 0.0 0.0 0.0 0.0 1.57079632679</pose>
+    <cast_shadows>false</cast_shadows>
+    <geometry>
+        <box>
+            <size>0.44 0.44 1e-3</size>
+        </box>
+    </geometry>
+    <material>
+        <script>
+            <uri>model://aruco_Slava_Ivanov_txt/materials/scripts</uri>
+            <uri>model://aruco_Slava_Ivanov_txt/materials/textures</uri>
+            <name>aruco/marker_2_81</name>
+        </script>
+    </material>
+</visual>
+
+<visual name="visual_marker_2_82">
+    <pose>3.0 0.0 0.0 0.0 0.0 1.57079632679</pose>
+    <cast_shadows>false</cast_shadows>
+    <geometry>
+        <box>
+            <size>0.44 0.44 1e-3</size>
+        </box>
+    </geometry>
+    <material>
+        <script>
+            <uri>model://aruco_Slava_Ivanov_txt/materials/scripts</uri>
+            <uri>model://aruco_Slava_Ivanov_txt/materials/textures</uri>
+            <name>aruco/marker_2_82</name>
+        </script>
+    </material>
+</visual>
+
+<visual name="visual_marker_2_83">
+    <pose>4.0 0.0 0.0 0.0 0.0 1.57079632679</pose>
+    <cast_shadows>false</cast_shadows>
+    <geometry>
+        <box>
+            <size>0.44 0.44 1e-3</size>
+        </box>
+    </geometry>
+    <material>
+        <script>
+            <uri>model://aruco_Slava_Ivanov_txt/materials/scripts</uri>
+            <uri>model://aruco_Slava_Ivanov_txt/materials/textures</uri>
+            <name>aruco/marker_2_83</name>
+        </script>
+    </material>
+</visual>
+
+        </link>
+    </model>
+</sdf>
